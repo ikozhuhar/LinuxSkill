@@ -76,6 +76,6 @@
 
 
 
-
+###### Вопросы по сетям (23)
 
 https://github.com/trimstray/test-your-sysadmin-skills/tree/master
