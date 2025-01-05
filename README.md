@@ -2,6 +2,8 @@
 <img src="https://github.com/ikozhuhar/sysadmin_skills/blob/main/sysadmin_preview.png">
 </p>
 
+<img src="https://github.com/ikozhuhar/sysadmin_skills/tree/main/img/sysadmin_preview.png">
+
 <p align="center">
 Отличному администратору не обязательно знать все, но он должен быть в состоянии придумать потрясающие решения для невозможных проектов.
 </p>
