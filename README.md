@@ -24,7 +24,7 @@
 
 ###### Системные вопросы (37)
 
-<details>
+<details style="margin-bottom: 30px;">
    <p><summary><b>Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?</b></summary></p>
 
    1. Red Hat Enterprise Linux
