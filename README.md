@@ -16,14 +16,13 @@
 Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?
 
 
-<form>
-  <label for="fruits">Выберите фрукт:</label>
-  <select id="fruits" name="fruits">
-    <option value="apple">Яблоко</option>
-    <option value="banana">Банан</option>
-    <option value="orange">Апельсин</option>
-  </select>
-</form>
+<details><summary>A dropdown list for markdown</summary>
+
+   1. First item must be preceeded with an empty line.
+   1. Markdown renders **perfectly**.
+   1. Extra item.
+
+</details>
 
 
 
