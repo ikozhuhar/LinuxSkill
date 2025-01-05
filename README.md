@@ -15,11 +15,9 @@
 
 <details><summary><b>Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?</b></summary>
 
-   <p>Red Hat Enterprise Linux - Fedora - CentOS - Debian - Ubuntu - Mint - SUSE Linux Enterprise Server (SLES) - SUSE Linux Enterprise Desktop (SLED) - Slackware - Arch - Kali - Backbox</p>
-
-
-   1. Markdown renders **perfectly**.
-   1. Extra item.
+   1. <p>Red Hat Enterprise Linux - Fedora - CentOS - Debian - Ubuntu - Mint - SUSE Linux Enterprise Server (SLES) - SUSE Linux Enterprise Desktop (SLED) - Slackware - Arch - Kali - Backbox</p>
+   2. Markdown renders **perfectly**.
+   3. Extra item.
 
 </details>
 
