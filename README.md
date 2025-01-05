@@ -13,10 +13,7 @@
 
 ### Младший системный администратор
 
-Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?
-
-
-<details><summary>Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?</summary>  
+<details><summary><b>Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?</b></summary>
 
    <p>Red Hat Enterprise Linux - Fedora - CentOS - Debian - Ubuntu - Mint - SUSE Linux Enterprise Server (SLES) - SUSE Linux Enterprise Desktop (SLED) - Slackware - Arch - Kali - Backbox</p>
 
