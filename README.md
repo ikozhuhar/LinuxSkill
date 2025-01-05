@@ -16,9 +16,11 @@
 Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?
 
 
-<details><summary>A dropdown list for markdown</summary>
+<details><summary>Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?</summary>
 
-   1. First item must be preceeded with an empty line.
+   - Red Hat Enterprise Linux - Fedora - CentOS - Debian - Ubuntu - Mint - SUSE Linux Enterprise Server (SLES) - SUSE Linux Enterprise Desktop (SLED) - Slackware - Arch - Kali - Backbox
+
+
    1. Markdown renders **perfectly**.
    1. Extra item.
 
