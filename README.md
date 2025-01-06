@@ -30,18 +30,13 @@
 <details style="margin-bottom: 30px;">
    <p><summary><b>Приведите несколько примеров дистрибутива Linux. Какой ваш любимый дистрибутив и почему?</b></summary></p>
 
-   1. Red Hat Enterprise Linux
-   2. Fedora
-   3. CentOS
-   4. Debian
-   5. Ubuntu
-   6. Mint
-   7. SUSE Linux Enterprise Server
-   8. SUSE Linux Enterprise Desktop
-   9. Slackware
-   10. Arch
-   11. Kali
-   12. Backbox
+   1. Ubuntu — один из самых популярных и дружелюбных для новичков дистрибутивов, основанный на Debian.
+   2. Debian — стабильный и универсальный дистрибутив, который служит основой для многих других.
+   3. Fedora — дистрибутив, ориентированный на использование новейших технологий с фокусом на разработчиков.
+   4. Arch Linux — дистрибутив для опытных пользователей, предоставляющий полную свободу в настройке системы.
+   5. Linux Mint — дистрибутив, ориентированный на пользователей, привыкших к Windows, с простым и понятным интерфейсом.
+
+[Популярные дистрибутивы Linux](https://blog.skillfactory.ru/glossary/linux/)
 
 </details>
 
