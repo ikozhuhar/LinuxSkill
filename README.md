@@ -333,8 +333,7 @@ find /opt/data -type d -exec chmod 755 {} \;
 ```
 find /opt/data -type f -exec chmod 644 {} \;
 ```
-**Подробнее:**  
-[Как изменить разрешения для папки и ее подпапок/файлов?](https://stackoverflow.com/questions/3740152/how-do-i-change-permissions-for-a-folder-and-its-subfolders-files?rq=1)
+**Подробнее:** - [Как изменить разрешения для папки и ее подпапок/файлов?](https://stackoverflow.com/questions/3740152/how-do-i-change-permissions-for-a-folder-and-its-subfolders-files?rq=1)
 
 </details>
 
