@@ -181,6 +181,8 @@ w
 # Команда использует /var/log/wtmp.
 last
 ```
+
+Подробнее: [4 способа определить, кто вошел в систему Linux](https://www.thegeekstuff.com/2009/03/4-ways-to-identify-who-is-logged-in-on-your-linux-system/)
 </details>
 
 
