@@ -182,7 +182,7 @@ w
 last
 ```
 
-Подробнее: [4 способа определить, кто вошел в систему Linux](https://www.thegeekstuff.com/2009/03/4-ways-to-identify-who-is-logged-in-on-your-linux-system/)
+**Полезные ресурсы:** [4 способа определить, кто вошел в систему Linux](https://www.thegeekstuff.com/2009/03/4-ways-to-identify-who-is-logged-in-on-your-linux-system/)
 </details>
 
 
@@ -232,7 +232,7 @@ fg %#
 
 Замените `#` на серийный номер задания.
 
-Полезные ресурсы:  
+**Полезные ресурсы:**
 1. [Запустить процесс Unix в фоновом режиме](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0026038)
 2. [Каковы преимущества работы приложений в фоновом режиме?](https://unix.stackexchange.com/questions/162186/what-is-are-the-advantages-of-running-applications-in-backgound)
 
