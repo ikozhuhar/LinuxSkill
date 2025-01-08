@@ -341,7 +341,32 @@ find /opt/data -type f -exec chmod 644 {} \;
 
 
 <details>
-<p><summary><b></b></summary></p>
+<p><summary><b>Каждая команда завершается ошибкой command not found. Как отследить источник ошибки и устранить ее?</b></summary></p>
+
+Похоже, что в какой-то момент происходит перезапись переменной среды PATH по умолчанию. Тип ошибок, которые у вас есть, указывает на то, что PATH не содержит, например, /bin, где находятся команды (включая bash).
+
+One way to begin debugging your bash script or command would be to start a subshell with the `-x` option:
+
+```
+bash --login -x
+```
+
+Это покажет вам каждую команду и ее аргументы, которые выполняются при запуске этой оболочки.
+
+Также очень полезно показать значения переменной PATH:
+
+```
+echo $PATH
+```
+
+Если вы запустите это:
+
+```
+PATH=/bin:/sbin:/usr/bin:/usr/sbin
+```
+
+most commands should start working - and then you can edit `~/.bash_profile` instead of `~/.bashrc` and fix whatever is resetting `PATH` there. Default `PATH` variable values for root and other users is in `/etc/profile` file.
+
 </details>
 
 
