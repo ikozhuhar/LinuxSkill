@@ -365,7 +365,7 @@ echo $PATH
 PATH=/bin:/sbin:/usr/bin:/usr/sbin
 ```
 
-most commands should start working - and then you can edit `~/.bash_profile` instead of `~/.bashrc` and fix whatever is resetting `PATH` there. Default `PATH` variable values for root and other users is in `/etc/profile` file.
+Большинство команд должны начать работать - и тогда вы можете редактировать `~/.bash_profile` вместо `~/.bashrc` и исправить то, что сбрасывает `PATH` там. Значения переменной `PATH` по умолчанию для root и других пользователей находятся в файле `/etc/profile`.
 
 </details>
 
