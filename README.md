@@ -321,7 +321,21 @@ fg %#
 
 
 <details>
-<p><summary><b></b></summary></p>
+<p><summary><b>Как рекурсивно изменить права доступа для всех каталогов, кроме файлов, и для всех файлов, кроме каталогов?</b></summary></p>
+
+Чтобы изменить все каталоги, например, на 755 (drwxr-xr-x):
+```
+find /opt/data -type d -exec chmod 755 {} \;
+```
+
+Чтобы изменить все файлы, например, на 644 (-rw-r--r--):
+
+```
+find /opt/data -type f -exec chmod 644 {} \;
+```
+**Подробнее:**  
+[Как изменить разрешения для папки и ее подпапок/файлов?](https://stackoverflow.com/questions/3740152/how-do-i-change-permissions-for-a-folder-and-its-subfolders-files?rq=1)
+
 </details>
 
 
