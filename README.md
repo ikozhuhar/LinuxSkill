@@ -386,7 +386,26 @@ PATH=/bin:/sbin:/usr/bin:/usr/sbin
 
 
 <details>
-<p><summary><b></b></summary></p>
+<p><summary><b>Что такое команда grep? Как сопоставить несколько строк в одной строке?</b></summary></p>
+
+Утилиты grep — это семейство инструментов Unix, включая egrep и fgrep.
+
+grep ищет шаблоны файлов. Если вы ищете определенный шаблон в выводе другой команды, grep выделяет соответствующие строки. Используйте эту команду grep для поиска в файлах журналов, определенных процессах и т. д.
+
+Для сопоставления нескольких строк:
+
+```
+grep -E "string1|string2" filename
+```
+
+или
+
+```
+grep -e "string1" -e "string2" filename
+```
+
+**Подробнее:** - [About grep](https://servicenow.iu.edu/kb?id=kb_article_view&sysparm_article=KB0026011)
+
 </details>
 
 
