@@ -549,7 +549,12 @@ apt-file show p7zip
 
 
 <details>
-<p><summary><b></b></summary></p>
+<p><summary><b>Как найти процессы потребляющие память?</b></summary></p>
+
+ps -eo pid,ppid,cmd,%mem --sort=-%mem | head
+ps -eo pid,ppid,cmd,%cpu --sort=-%cpu | head
+top -o %MEM -b -n 1|head -n 12|tail -6 
+
 </details>
 
 
